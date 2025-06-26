@@ -12,7 +12,7 @@
 -->
 
 Welcome to BluLeap — where embedded systems meet innovation.
-We specialize in low-power firmware, connected hardware, and Edge AI solutions built for scale and efficiency. And we are love RUÚT. 
+We specialize in low-power firmware, connected hardware, and Edge AI solutions built for scale and efficiency. And we are love Rust. 
 
 🚀 What We Do
 
